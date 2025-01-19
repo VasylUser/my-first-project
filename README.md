@@ -1,2 +1,3 @@
 # my-first-project
-Just training
+
+Just training code
